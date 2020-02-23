@@ -683,4 +683,6 @@ PRODUCT_PACKAGES += \
     QtiTelephonyService \
     ims \
     qcrilmsgtunnel \
+	CNEService \
+	IWlanService \
     WfdCommon
