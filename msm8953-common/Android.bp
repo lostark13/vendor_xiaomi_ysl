@@ -39,7 +39,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
 	name: "libgpustats",
-	owner: "xiaomi",
+	owner: "qualcomm",
 	strip: {
 		none: true,
 	},
